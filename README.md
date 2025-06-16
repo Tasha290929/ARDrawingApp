@@ -1,6 +1,6 @@
 # ARDrawing
 
-**ARDrawing** is a mobile app that helps both beginners and professional artists draw any image perfectly by using augmented reality. The app provides a modern, intuitive, and simple UI/UX to make the creative process smooth and enjoyable.
+**ARDrawing** is a mobile app that helps both beginners and professional artists draw any image perfectly by using augmented reality. The app provides a modern, intuitive, and simple UI/UX to make the creative process smooth and enjoyable. App preview: https://drive.google.com/file/d/1ZJ3Hnjh1j_rAIfcKau1x4iXmCmwywLJC/view?usp=sharing
 
 ## ✨ Features
 
